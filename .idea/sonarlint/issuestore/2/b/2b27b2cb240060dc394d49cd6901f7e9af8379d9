@@ -1,0 +1,8 @@
+
+Jsquid:S1602I",Remove useless curly braces around statement(Ş˜Ö¤8Öº«£ˆ-
+[
+squid:S106J"9Replace this use of System.out or System.err by a logger.(æ–İ€ÿÿÿÿÿ8Öº«£ˆ-
+Isquid:S1168B"+Return an empty collection instead of null.(¥¹ï8Ş£¢ˆ-
+Fsquid:S1148@"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8¥˜¢ˆ-
+Fsquid:S11483"#Use a logger to log this exception.(Âşÿâûÿÿÿÿ8ŠŸâ¢ˆ-
+Fsquid:S1148$"#Use a logger to log this exception.(Âşÿâûÿÿÿÿ8ï¦£ˆ-
